@@ -1,6 +1,6 @@
 {
   "name": "@jonthompson/renaweexlebo-common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "start-web-dev": "webpack-dev-server"
   },
